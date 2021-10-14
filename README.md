@@ -2,7 +2,7 @@
 
 # Temperature, Humidity, CO2 and VOC-LP tag radio sensor with LCD Display
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-lcd-co2-voc-lp/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-lcd-co2-voc-lp)
+[![build](https://github.com/hardwario/twr-radio-window-servo-control/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-window-servo-control/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-lcd-co2-voc-lp.svg)](https://github.com/bigclownprojects/bcf-radio-lcd-co2-voc-lp/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-lcd-co2-voc-lp.svg)](https://github.com/bigclownprojects/bcf-radio-lcd-co2-voc-lp/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
